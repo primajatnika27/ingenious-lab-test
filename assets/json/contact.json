@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "status": {
+    "code": "200",
+    "message": "Successful retrieval for contacts"
+  },
+  "data": [
+    {
+      "id": "user00001",
+      "name": "Robert A/L Francis",
+      "email": "robert@yahoo.com"
+    },
+    {
+      "id": "user00002",
+      "name": "Balu Govindasamy",
+      "email": "balugov@gmail.com"
+    },
+    {
+      "id": "user00003",
+      "name": "Chong How Kee",
+      "email": "chonghowkee@yahoo.com"
+    },
+    {
+      "id": "user00004",
+      "name": "A Sebastian A/L Anthony",
+      "email": "sebastian@hyped.com.my"
+    },
+    {
+      "id": "user00005",
+      "name": "Teoh A/L Francis",
+      "email": "teohminkee@inglab.com.my"
+    }
+  ]
+}
